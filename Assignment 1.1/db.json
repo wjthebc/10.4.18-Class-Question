@@ -1,0 +1,38 @@
+[
+        {
+          "id": 1,
+          "name": "Shanghai",
+          "arrival_time": "10:30pm",
+          "status": "On Time"
+        },
+        {
+          "id": 2,
+          "name": "Tokyo",
+          "arrival_time": "11:00pm",
+          "status": "Delayed"
+        },
+        {
+          "id": 3,
+          "name": "Amsterdam",
+          "arrival_time": "11:30pm",
+          "status": "On Time"
+        },
+        {
+          "id": 4,
+          "name": "Paris",
+          "arrival_time": "12:00am",
+          "status": "On Time"
+        },
+        {
+          "id": 5,
+          "name": "Florence",
+          "arrival_time": "12:30am",
+          "status": "On Time"
+        },
+        {
+          "id": 6,
+          "name": "Sydney",
+          "arrival_time": "1:00am",
+          "status": "On Time"
+        }
+    ]
